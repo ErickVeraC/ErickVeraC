@@ -10,7 +10,7 @@ I specialize in building clean, responsive, and efficient web applications using
 #### Languages:
 HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL, Python
 #### Frameworks & Libraries:
-React.js, Next.js, Node.js, Express.js, SASS, Tailwind CSS, Bootstrap
+React.js, Next.js, Angular, Node.js, Express.js, Nest.js, SASS, Tailwind CSS, Bootstrap
 #### Databases:
 MongoDB, Mongoose, MySQL
 #### Other Tools:
