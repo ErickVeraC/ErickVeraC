@@ -8,7 +8,7 @@ I specialize in building clean, responsive, and efficient web applications using
 
 ### 💻 Skills & Technologies
 #### Languages:
-HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL, Python
+HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL, PL/SQL, Java, Python
 #### Frameworks & Libraries:
 React.js, Next.js, Angular, Node.js, Express.js, Nest.js, SASS, Tailwind CSS, Bootstrap
 #### Databases:
