@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Erick Vera!
+# 👋 Hi, I'm Erick Vera! The Coder
 ## 🚀 Full Stack Web Developer | 🎨 UI/UX Enthusiast | 🌎 Based in Mexico City, MX
 
 ### About Me
