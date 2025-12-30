@@ -1,31 +1,71 @@
-# 👋 Hi, I'm Erick Vera! The Coder
-## 🚀 Full Stack Web Developer | 🎨 UI/UX Enthusiast | 🌎 Based in Mexico City, MX
+# Hi, I'm Erick Vera
 
-### About Me
-I’m a Full Stack Developer with over 12 years of experience in Web Design and Development, bringing a unique perspective from my background in graphic design. I recently transitioned into the world of programming, driven by my desire for continuous learning and new challenges.
+Software Architect with a strong focus on frontend engineering, specialized in building well-structured, scalable web applications using TypeScript.
 
-I specialize in building clean, responsive, and efficient web applications using modern web technologies. My ability to merge creative design with technical expertise allows me to deliver functional and visually appealing solutions.
+## About Me
 
-### 💻 Skills & Technologies
-#### Languages:
-HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL, PL/SQL, Java, Python
-#### Frameworks & Libraries:
-React.js, Next.js, Angular, Node.js, Express.js, Nest.js, SASS, Tailwind CSS, Bootstrap
-#### Databases:
-MongoDB, Mongoose, MySQL
-#### Other Tools:
-Git, GitHub, JWT, Google Cloud, AWS
-#### Design Tools:
-Adobe Illustrator, Photoshop, InDesign, XD
-#### Certifications:
-Agile Scrum, Google Cloud, AWS
-#### 👨‍💻 What I'm Working On:
-Building my personal portfolio on erickvcoder.com using React and TailwindCSS.
-Contributing to open-source projects that focus on improving user experience.
-#### 📈 GitHub Stats:
+I work as a Software Architect in production environments, designing and maintaining systems with an emphasis on clarity, maintainability, and long-term evolution.
 
-### 🚀 Projects
-Here are some of my favorite projects:
+My main strength is frontend architecture: structuring applications, defining boundaries, and building clean, predictable user interfaces.  
+At the same time, I work as a full stack developer, designing and consuming APIs, handling authentication flows, and integrating backend services when needed.
 
-### 🎯 Let's Collaborate!
-I'm always open to new opportunities, collaborations, or simply talking about tech! Feel free to reach out via LinkedIn or explore my work on GitHub.
+I value simple solutions, clear responsibilities, and code that is easy to reason about.
+
+## Technical Focus
+
+### Architecture & Frontend
+- Frontend architecture and code organization
+- TypeScript-first development
+- React and Next.js applications
+- Component-driven UI design
+- Performance and maintainability
+
+### Full Stack Experience
+- Backend services with Node.js and NestJS
+- REST APIs
+- Authentication and authorization
+- Async workflows and messaging concepts
+- Integration between frontend and backend systems
+
+## Technologies
+
+**Languages**
+- TypeScript
+- JavaScript
+- SQL
+
+**Frontend**
+- React
+- Next.js
+- Astro
+- Tailwind CSS
+- CSS Modules
+
+**Backend**
+- Node.js
+- Bun
+- NestJS
+- Hono
+- Express
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Infrastructure & Tooling**
+- Git
+- GitHub
+- Docker (basic usage)
+- Cloud deployments in production environments
+
+## Current Interests
+
+- Improving backend architecture and system design skills
+- Designing scalable frontend architectures
+- Working with distributed systems concepts
+- Writing cleaner, more predictable TypeScript code
+
+## Repositories
+
+My repositories include experiments, proofs of concept, and real-world solutions focused on web development and system architecture.
+
